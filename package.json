@@ -1,0 +1,19 @@
+{
+  "name": "flow-learning",
+  "version": "1.0.0",
+  "description": "## Install",
+  "main": "index.js",
+  "scripts": {
+    "push": "git add -A && git commit -m 'commit' && git pull && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angryreid/flow-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angryreid/flow-learning/issues"
+  },
+  "homepage": "https://github.com/angryreid/flow-learning#readme"
+}
